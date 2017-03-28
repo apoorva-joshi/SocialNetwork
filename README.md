@@ -10,6 +10,9 @@
 6. Select the Tomcat server.
 7. Webpage will open on browser.
 
+#DATABASE#
+1. Database name: "social_network"
+2. Script to run for this project is provided as "social_network_dump".
 
 #ASSUMPTIONS#
 1. Input cannot be empty.
